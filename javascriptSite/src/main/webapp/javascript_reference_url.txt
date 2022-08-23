@@ -1,4 +1,0 @@
-https://www.w3.org/
-https://developer.mozilla.org/
-https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference
-http://www.w3schools.com/

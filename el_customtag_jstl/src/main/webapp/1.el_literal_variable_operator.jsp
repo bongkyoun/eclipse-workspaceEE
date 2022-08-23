@@ -39,7 +39,7 @@ pageContext.setAttribute("emptyStr", emptyStr);
 	<hr>
 	<ul>
 		<li>----EL 리터럴(상수)----</li>
-		<li>정수형리터럴:${2368468487}</li>
+		<li>정수형리터럴:${1234}</li>
 		<li>실수형리터럴:${3.141578545}</li>
 		<li>논리형리터럴:${true}</li>
 		<li>문자형리터럴:${"문자1"}</li>
