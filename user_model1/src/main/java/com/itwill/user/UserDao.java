@@ -56,7 +56,7 @@ public class UserDao {
 			insertRowCount = pstmt.executeUpdate();
 		} finally {
 			/*
-			 * 예외발생과 관계없이 반듯시 실행되는 코드
+			 * 예외발생과 관계없이 반드시 실행되는 코드
 			 */
 			if (pstmt != null) {
 				pstmt.close();
@@ -181,7 +181,7 @@ public class UserDao {
 			}
 		} finally {
 			/*
-			 * 예외발생과 관계없이 반듯시 실행되는 코드
+			 * 예외발생과 관계없이 반드시 실행되는 코드
 			 */
 			if (rs != null)
 				rs.close();
